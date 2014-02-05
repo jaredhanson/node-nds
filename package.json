@@ -1,6 +1,6 @@
 {
   "name": "nds",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Query users and entities in network directory services.",
   "keywords": [
     "directory",
